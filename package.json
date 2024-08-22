@@ -1,0 +1,19 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "My first time doing server-side scripting with Node JS and the Express framework. This is a simple static website, where, for a given URL pattern, the server returns the corresponding HTML file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/black-RAM/node-static-site.git"
+  },
+  "author": "Ariel Robert Mutebi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/black-RAM/node-static-site/issues"
+  },
+  "homepage": "https://github.com/black-RAM/node-static-site#readme"
+}
