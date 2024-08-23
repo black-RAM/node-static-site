@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/black-RAM/node-static-site/issues"
   },
-  "homepage": "https://github.com/black-RAM/node-static-site#readme"
+  "homepage": "https://github.com/black-RAM/node-static-site#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
